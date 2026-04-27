@@ -7,3 +7,5 @@ jupyterlab
 xgboost
 lightgbm
 flask
+
+# Para usar GPU en XGBoost y LightGBM se requiere CUDA y versiones compiladas/instaladas con soporte GPU.
